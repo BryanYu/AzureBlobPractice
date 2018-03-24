@@ -1,0 +1,2 @@
+# AzureBlobPractice
+AzureBlob練習
